@@ -1,0 +1,5 @@
+user:x:1000:1000:User:/home/user:/bin/bash
+student:x:1001:1001:Student:/home/student:/bin/bash
+admin:x:1002:1002:Administrator:/home/admin:/bin/bash
+guest:x:1003:1003:Guest:/home/guest:/bin/bash
+test:x:1004:1004:Test User:/home/test:/bin/bash
